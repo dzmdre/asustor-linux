@@ -1,3 +1,5 @@
+This is the kernel source code and config file (linux-3.4.26-i386.config) for compiling the kernel for Asustor 32-bit intel NAS devices, such as AS-204TE
+
 	Linux kernel release 3.x <http://kernel.org/>
 
 These are the release notes for Linux version 3.  Read them carefully,
